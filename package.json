@@ -1,12 +1,9 @@
 {
-  "homepage": "https://tayna-silva-macedo.github.io/project-shoppingcart",
   "name": "sd-0x-project-shopping-cart",
   "version": "1.0.0",
   "description": "Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀",
   "main": "script.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "jest",
     "test:coverage": "jest --coverage",
     "cypress": "cypress run",
